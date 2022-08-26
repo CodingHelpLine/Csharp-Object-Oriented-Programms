@@ -17,7 +17,6 @@ the Youtube Channel @CodingHelpLine.
 * Polymorphism
 * Abstract Classes with ABC moudle
 * Abstract methods with @abstractmehtod annotation or decorator
-* private, protected and public fields with _, __ prefixes
 * Interfaces
 * Concrete Classes
 * Overriding
