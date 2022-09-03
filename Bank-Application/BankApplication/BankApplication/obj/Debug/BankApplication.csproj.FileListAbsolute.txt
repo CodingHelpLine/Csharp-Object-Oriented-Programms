@@ -1,0 +1,10 @@
+D:\Youtube\CSharp\BankApplication\BankApplication\BankApplication\bin\Debug\BankApplication.exe.config
+D:\Youtube\CSharp\BankApplication\BankApplication\BankApplication\bin\Debug\BankApplication.exe
+D:\Youtube\CSharp\BankApplication\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+D:\Youtube\CSharp\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.AssemblyReference.cache
+D:\Youtube\CSharp\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.Properties.Resources.resources
+D:\Youtube\CSharp\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.GenerateResource.cache
+D:\Youtube\CSharp\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+D:\Youtube\CSharp\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.exe
+D:\Youtube\CSharp\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.pdb
+D:\Youtube\CSharp\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.BankForm.resources
