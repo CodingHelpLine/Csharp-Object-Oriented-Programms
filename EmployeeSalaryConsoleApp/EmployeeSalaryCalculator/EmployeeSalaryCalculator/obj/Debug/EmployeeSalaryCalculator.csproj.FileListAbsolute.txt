@@ -1,0 +1,7 @@
+C:\Users\Programmer\Desktop\EmployeeSalaryCalculator\EmployeeSalaryCalculator\bin\Debug\EmployeeSalaryCalculator.exe.config
+C:\Users\Programmer\Desktop\EmployeeSalaryCalculator\EmployeeSalaryCalculator\bin\Debug\EmployeeSalaryCalculator.exe
+C:\Users\Programmer\Desktop\EmployeeSalaryCalculator\EmployeeSalaryCalculator\bin\Debug\EmployeeSalaryCalculator.pdb
+C:\Users\Programmer\Desktop\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.csprojAssemblyReference.cache
+C:\Users\Programmer\Desktop\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\Desktop\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.exe
+C:\Users\Programmer\Desktop\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.pdb
