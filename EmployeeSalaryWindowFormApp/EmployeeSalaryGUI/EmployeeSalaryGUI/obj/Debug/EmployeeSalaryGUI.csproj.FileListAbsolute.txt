@@ -1,0 +1,10 @@
+C:\Users\Programmer\Desktop\EmployeeSalaryGUI\EmployeeSalaryGUI\bin\Debug\EmployeeSalaryGUI.exe.config
+C:\Users\Programmer\Desktop\EmployeeSalaryGUI\EmployeeSalaryGUI\bin\Debug\EmployeeSalaryGUI.exe
+C:\Users\Programmer\Desktop\EmployeeSalaryGUI\EmployeeSalaryGUI\bin\Debug\EmployeeSalaryGUI.pdb
+C:\Users\Programmer\Desktop\EmployeeSalaryGUI\EmployeeSalaryGUI\obj\Debug\EmployeeSalaryGUI.csprojAssemblyReference.cache
+C:\Users\Programmer\Desktop\EmployeeSalaryGUI\EmployeeSalaryGUI\obj\Debug\EmployeeSalaryGUI.Properties.Resources.resources
+C:\Users\Programmer\Desktop\EmployeeSalaryGUI\EmployeeSalaryGUI\obj\Debug\EmployeeSalaryGUI.csproj.GenerateResource.cache
+C:\Users\Programmer\Desktop\EmployeeSalaryGUI\EmployeeSalaryGUI\obj\Debug\EmployeeSalaryGUI.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\Desktop\EmployeeSalaryGUI\EmployeeSalaryGUI\obj\Debug\EmployeeSalaryGUI.exe
+C:\Users\Programmer\Desktop\EmployeeSalaryGUI\EmployeeSalaryGUI\obj\Debug\EmployeeSalaryGUI.pdb
+C:\Users\Programmer\Desktop\EmployeeSalaryGUI\EmployeeSalaryGUI\obj\Debug\EmployeeSalaryGUI.Form1.resources
